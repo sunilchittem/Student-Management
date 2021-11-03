@@ -1,0 +1,23 @@
+@charset "ISO-8859-1";
+
+h1{
+	color: red;
+}
+
+.myFont {
+	font-size: 20px;
+	font-family: monospace;
+}
+
+.myButton{
+	
+	color: white;
+	background-color:blue;
+	border: black 2px solid;
+	padding: 5px 5px 5px 5px;
+}
+
+.myButton:hover {
+	color: black;
+	background-color:white;
+}
